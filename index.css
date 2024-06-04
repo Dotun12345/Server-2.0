@@ -1,0 +1,68 @@
+.carousel-caption{
+    position: absolute;
+    top: 35%;
+    left: 16%;
+    color: white;
+}
+
+.db{
+    padding: 15px 20px;
+    margin-top: 20px;
+    display: inline;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.btn2{
+    margin-left: 300px;
+    bottom: 100px;
+}
+
+.rating{
+    position: absolute;
+    top: 35%;
+    left: 10%;
+    color: white;
+}
+
+.contain{
+    position: relative;
+    max-width: 100%;
+}
+
+.img11{
+    /* max-width: 100%; */
+    height: auto;
+}
+
+a{
+    text-decoration: none;
+    color: #B6B6B6;
+}
+
+a:hover{
+    cursor: pointer;
+    color: #fff;
+}
+
+#card-hover:hover{
+    background-color: #0A8B00;
+    cursor: pointer;
+    transition: 0.3s;
+    color: white;
+}
+
+#card-hover{
+    background-color: white;
+    /* color: #B6B6B6; */
+}
+
+/* #card-header{
+    color: black;
+}
+
+#card-header:hover{
+    color: #fff;
+} */
